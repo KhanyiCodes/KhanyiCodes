@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on new projects
-- 📫 Rebaone Khanyisile Cynthhia Vilakazi on LinkedIn 
+- 📫 Rebaone Khanyisile Cynthia Vilakazi on LinkedIn 
 - ⚡ Fun fact: A Software Development graduate
 
 <!---
