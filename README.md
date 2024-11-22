@@ -3,7 +3,7 @@
 
 <h4 align="center"><strong>I enjoy working in teams and enjoy tackling challenging problems. I am a valuable member of any team due to my strong interpersonal, communication, and time management abilities as well as my enthusiasm for lifelong learning.I have outstanding cultural knowledge, and I am very approachable and flexible.</strong></h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanyicodes&label=Profile%20views&color=0e75b6&style=flat" alt="khanyicodes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanyicodes&label=Profile%20views&color=0e75b6&style=flat" alt="khanyicodes"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanyicodes" alt="khanyicodes" /></a> </p>
 
