@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanyicodes" alt="khanyicodes" /></a> </p>
 
-- 🌱 I’m currently learning **React components, JSX, state management, and routing**
+- 🌱 I’m currently learning **Spring Boot, Hibernate, Docker**
 
 - 💬 Ask me about **Java, C#, PL/SQL, MS Azure, HTML, CSS, JavaScript, Kotlin, ES6, Node.js, Simple Server Creations, JSX**
 
