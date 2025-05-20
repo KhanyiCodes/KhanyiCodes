@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanyicodes" alt="khanyicodes" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Hibernate, Docker**
+- 🌱 I’m currently learning **Spring Boot, Hibernate, Docker, Migration**
 
-- 💬 Ask me about **Java, C#, PL/SQL, MS Azure, HTML, CSS, JavaScript, Kotlin, ES6, Node.js, Simple Server Creations, JSX**
+- 💬 Ask me about **Java, C#, PL/SQL, MS Azure, HTML, CSS, JavaScript, Kotlin, ES6, Node.js, Simple Server Creations, JSX, Spring Boot, Docker**
 
 - 📫 Reach me on my personal email address: **rebaone02khanyi@gmail.com** 
-- 📫 Reach me on my work email address: **rebaone.vilakazi@capaciti.org.za**
+- 📫 Reach me on my work email address: **khanyisile.vilakazi@fnb.co.za** 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
