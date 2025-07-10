@@ -30,3 +30,50 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanyicodes&" alt="khanyicodes" /></p>
 
 <h4 align="center"><strong>I stand out for my unwavering commitment to excellence and exceeding expectations in every assignment, and I enjoy the chance to push myself and use my problem-solving abilities. I am willing to take on new tasks and am certain that I can contribute significantly.</strong></h4>
+
+public class DeveloperLife {
+
+    public static void main(String[] args) {
+        Developer me = new Developer("Your Favourite Developer");
+
+        me.setLocation("Waterfall City");
+        me.codeWithView();
+        me.mergeBranches();
+        me.approvePRs("good energy");
+        me.dailyRoutine();
+        me.growWithEveryLine();
+    }
+}
+
+class Developer {
+    private String name;
+
+    public Developer(String name) {
+        this.name = name;
+        System.out.println("👩🏽‍💻 " + name + " coding with a view...");
+    }
+
+    public void setLocation(String location) {
+        System.out.println("📍 Currently at: " + location);
+    }
+
+    public void codeWithView() {
+        System.out.println("💻 Writing clean code with skyline inspiration...");
+    }
+
+    public void mergeBranches() {
+        System.out.println("🌿 Merging branches...");
+    }
+
+    public void approvePRs(String criteria) {
+        System.out.println("✅ Approving PRs like I approve " + criteria + " — instantly.");
+    }
+
+    public void dailyRoutine() {
+        System.out.println("🔁 Pull. Review. Merge. Approve. Repeat.");
+    }
+
+    public void growWithEveryLine() {
+        System.out.println("🌱 Growth in every line of code.");
+    }
+}
