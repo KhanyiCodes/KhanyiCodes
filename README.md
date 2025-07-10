@@ -36,7 +36,7 @@ public class DeveloperLife {
     public static void main(String[] args) {
         Developer me = new Developer("Your Favourite Developer");
 
-        me.setLocation("Waterfall City");
+        me.setLocation("JHB");
         me.codeWithView();
         me.mergeBranches();
         me.approvePRs("good energy");
