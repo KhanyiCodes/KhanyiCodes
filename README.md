@@ -31,49 +31,16 @@
 
 <h4 align="center"><strong>I stand out for my unwavering commitment to excellence and exceeding expectations in every assignment, and I enjoy the chance to push myself and use my problem-solving abilities. I am willing to take on new tasks and am certain that I can contribute significantly.</strong></h4>
 
-public class DeveloperLife {
+<div align="center">
 
-    public static void main(String[] args) {
-        Developer me = new Developer("Your Favourite Developer");
+<h2>Developer Life</h2>
 
-        me.setLocation("JHB");
-        me.codeWithView();
-        me.mergeBranches();
-        me.approvePRs("good energy");
-        me.dailyRoutine();
-        me.growWithEveryLine();
-    }
-}
+<p>👩🏽‍💻 <strong>Your Favourite Developer</strong> coding with a view...</p>
+<p>📍 Currently at: <strong>JHB</strong></p>
+<p>💻 Writing clean code with skyline inspiration...</p>
+<p>🌿 Merging branches...</p>
+<p>✅ Approving PRs like I approve <strong>good energy</strong> — instantly.</p>
+<p>🔁 Pull. Review. Merge. Approve. Repeat.</p>
+<p>🌱 Growth in every line of code.</p>
 
-class Developer {
-    private String name;
-
-    public Developer(String name) {
-        this.name = name;
-        System.out.println("👩🏽‍💻 " + name + " coding with a view...");
-    }
-
-    public void setLocation(String location) {
-        System.out.println("📍 Currently at: " + location);
-    }
-
-    public void codeWithView() {
-        System.out.println("💻 Writing clean code with skyline inspiration...");
-    }
-
-    public void mergeBranches() {
-        System.out.println("🌿 Merging branches...");
-    }
-
-    public void approvePRs(String criteria) {
-        System.out.println("✅ Approving PRs like I approve " + criteria + " — instantly.");
-    }
-
-    public void dailyRoutine() {
-        System.out.println("🔁 Pull. Review. Merge. Approve. Repeat.");
-    }
-
-    public void growWithEveryLine() {
-        System.out.println("🌱 Growth in every line of code.");
-    }
-}
+</div>
