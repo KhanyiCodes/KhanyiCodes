@@ -2,7 +2,19 @@
 <h3 align="center">A Cum Laude Software Development graduate, working as a Developer at FNB</h3>
 
 <h4 align="center"><strong>I enjoy working in teams and enjoy tackling challenging problems. I am a valuable member of any team due to my strong interpersonal, communication, and time management abilities as well as my enthusiasm for lifelong learning.I have outstanding cultural knowledge, and I am very approachable and flexible.</strong></h4>
+<div align="center">
 
+<h2>Developer Life</h2>
+
+<p>👩🏽‍💻 <strong>Your Favourite Developer</strong> coding with a view...</p>
+<p>📍 Currently at: <strong>JHB</strong></p>
+<p>💻 Writing clean code with skyline inspiration...</p>
+<p>🌿 Merging branches...</p>
+<p>✅ Approving PRs like I approve <strong>good energy</strong> — instantly.</p>
+<p>🔁 Pull. Review. Merge. Approve. Repeat.</p>
+<p>🌱 Growth in every line of code.</p>
+
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanyicodes&label=Profile%20views&color=0e75b6&style=flat" alt="khanyicodes"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanyicodes" alt="khanyicodes" /></a> </p>
@@ -30,17 +42,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanyicodes&" alt="khanyicodes" /></p>
 
 <h4 align="center"><strong>I stand out for my unwavering commitment to excellence and exceeding expectations in every assignment, and I enjoy the chance to push myself and use my problem-solving abilities. I am willing to take on new tasks and am certain that I can contribute significantly.</strong></h4>
-
-<div align="center">
-
-<h2>Developer Life</h2>
-
-<p>👩🏽‍💻 <strong>Your Favourite Developer</strong> coding with a view...</p>
-<p>📍 Currently at: <strong>JHB</strong></p>
-<p>💻 Writing clean code with skyline inspiration...</p>
-<p>🌿 Merging branches...</p>
-<p>✅ Approving PRs like I approve <strong>good energy</strong> — instantly.</p>
-<p>🔁 Pull. Review. Merge. Approve. Repeat.</p>
-<p>🌱 Growth in every line of code.</p>
-
-</div>
