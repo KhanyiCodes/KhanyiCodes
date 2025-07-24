@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rebaone Khanyisile Cynthia Vilakazi</h1>
+<h1 align="center">Hi 👋, I'm Rebaone Khanyisile Cynthia Vilakazi👩🏽‍💻</h1>
 <h3 align="center">A Cum Laude Software Development graduate, working as a Developer at FNB</h3>
 
 <h4 align="center"><strong>I enjoy working in teams and enjoy tackling challenging problems. I am a valuable member of any team due to my strong interpersonal, communication, and time management abilities as well as my enthusiasm for lifelong learning.I have outstanding cultural knowledge, and I am very approachable and flexible.</strong></h4>
